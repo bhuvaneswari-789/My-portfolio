@@ -33,15 +33,9 @@ function headerShadow() {
 
 /* ----- TYPING EFFECT ----- */
 var typingEffect = new Typed(".typedText",{
-<<<<<<< HEAD
-<<<<<<< HEAD
-  strings : ["Web Designer","DSA Problem Solver","Web Developer"],
-=======
-  strings : ["Web Designer","DSA problem solver","Developer"],
->>>>>>> 1ae0909 (My portfolio)
-=======
+
+
   strings : ["Web Designer","problem solver","SoftWare Developer"],
->>>>>>> deada6d (Updated portfolio projects and simplified contact section)
   loop : true,
   typeSpeed : 100, 
   backSpeed : 80,
